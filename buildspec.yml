@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/offer-service.jar
+    - target/offer-microservice.jar
   discard-paths: yes

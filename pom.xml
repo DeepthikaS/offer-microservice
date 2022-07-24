@@ -115,7 +115,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>offer-service</finalName>
+		<finalName>offer-microservice</finalName>
 	</build>
 
 </project>
