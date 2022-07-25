@@ -26,7 +26,7 @@ class OfferMicroserviceApplicationTests {
 	void testEmployee() {
 		Employee emp = empRepo.findById(1).get();
 //		System.out.println("offers:"+emp.getOffers());
-		System.out.println("liked offers:" + emp.getLikedOffers());
+	//	System.out.println("liked offers:" + emp.getLikedOffers());
 	}
 	
 	@Test
